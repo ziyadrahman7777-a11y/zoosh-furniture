@@ -1,4 +1,4 @@
-import { Facebook, Instagram, Linkedin, Mail, MapPin, Phone } from 'lucide-react'
+import { Mail, MapPin, Phone } from 'lucide-react'
 import { Container } from '../ui/Container'
 import { FOOTER_LINKS, SOCIAL_LINKS } from '../../data/home'
 
